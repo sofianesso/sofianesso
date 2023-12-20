@@ -1,5 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif)](https://rishavchanda.io)
-
+<a href="https://www.linkedin.com/in/sofian-essounani-31315a183/">
+    <img src="https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif" width="1500" height="400">
+</a>
 <h1 align="center">Hey 👋</h1>
 <h3 align="center">I'm Sofian. A passionate Cloud Developer from Sweden (not working on real clouds)</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203361327-OKGR7H58GGGLKW4K1EY1/CC.gif">
